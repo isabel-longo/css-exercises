@@ -1,0 +1,19 @@
+.big{
+    font-size: 24px;
+}
+
+.red-background{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#blue-text{
+    color: blue;
+    font-size: 36px;
+}
+
+#even{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
